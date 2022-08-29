@@ -44,3 +44,6 @@ const filter = (...args) => {
 };
 
 console.log(filter(1, 2, 3));
+
+// args 
+// === checks for type nd value equality.
